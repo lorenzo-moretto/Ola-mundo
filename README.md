@@ -1,5 +1,4 @@
 # Ola, mundo!
-<<<<<<< HEAD
 primeiro repositorio versionado. 
 =======
 primeiro repositorio versionado
